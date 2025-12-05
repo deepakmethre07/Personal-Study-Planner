@@ -4,6 +4,7 @@ import pandas as pd
 
 st.set_page_config(page_title="Study Planner", layout="centered")
 st.title("📚 Personal Study Planner")
+st.caption("👨‍💻 Developed by Deepak Methre")
 
 st.write("Create a simple day-wise study plan for your upcoming exam.")
 
